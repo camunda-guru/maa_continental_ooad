@@ -1,0 +1,17 @@
+A bank is introducing a new range of Automated Teller
+Machines (ATMs) across all its branches. These ATMs
+will be distributed at local branches, and be linked to head
+office’s mainframe which stores details of all customer
+accounts. The ATMs will allow customers to access
+details of their account, such as the balance, and
+withdraw cash provided they have sufficient funds
+remaining. Customers can also request an overdraft via
+an ATM and receive an instant decision (less than 10
+seconds). Customers will use the ATM by inserting their
+account card and entering a 4-digit PIN. Customers
+should be able to change this PIN via the ATM as well.
+The branch manager for a customer should also be able
+to use a branch terminal to access the mainframe for
+information on that customer’s account and to approve an
+overdraft for them if they visit the branch with proof of
+identification.
